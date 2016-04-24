@@ -9,8 +9,8 @@ import 'angular-material/angular-material.css';
 console.log('ngMaterial', ngMaterial);
 
 angular.module('app', [
-<<<<<<< HEAD
     uiRouter,
+    ngMaterial,
     Common.name,
     Components.name
   ])
@@ -20,12 +20,4 @@ angular.module('app', [
     // #how-to-configure-your-server-to-work-with-html5mode
     $locationProvider.html5Mode(true).hashPrefix('!');
   })
-=======
-  uiRouter,
-  ngMaterial,
-  Common.name,
-  Components.name
-])
->>>>>>> refs/remotes/origin/add-ng-material
-
   .component('app', AppComponent);

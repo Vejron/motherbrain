@@ -4,16 +4,12 @@
   "description": "Starter for Angular + ES6 + (Webpack or JSPM)",
   "main": "index.js",
   "dependencies": {
-<<<<<<< HEAD
-    "angular": "^1.5.0",
-=======
-    "angular": "^1.4.4",
-    "angular-animate": "^1.4",
-    "angular-aria": "^1.4.9",
-    "angular-component": "0.0.6",
-    "angular-material": "^1.0.4",
->>>>>>> refs/remotes/origin/add-ng-material
-    "angular-ui-router": "^0.2.15",
+    "angular": "^1.5.5",
+    "angular-animate": "^1.5.5",
+    "angular-aria": "^1.5.5",
+    "angular-component": "0.0.8",
+    "angular-material": "^1.0.7",
+    "angular-ui-router": "^0.2.18",
     "lodash": "^3.8.0",
     "normalize.css": "^3.0.3"
   },
