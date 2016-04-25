@@ -9,6 +9,7 @@
     "angular-aria": "^1.5.5",
     "angular-component": "0.0.8",
     "angular-material": "^1.0.7",
+    "angular-messages": "^1.5.5",
     "angular-ui-router": "^0.2.18",
     "lodash": "^3.8.0",
     "normalize.css": "^3.0.3"
